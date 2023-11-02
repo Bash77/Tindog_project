@@ -1,0 +1,48 @@
+:root{
+   --main-white: #f0f0f0;
+   --main-red: #be3144;
+   --main-blue: #45567d;
+  --main-gray: #303841;
+  --primary-color: #1966d3;
+  --secondary-color: #f0f4fd;
+  --dark-blue: #00004a;
+  --black-color: #000;
+  --grey-color: #4c5563;
+  --light-blue-color: #2e8dfb;
+  --transition: all 300ms ease-in-out;
+}
+body {
+    background-color: #be3144;
+}
+
+
+    .w3-round-xlarge{
+         height:24px;
+         width:25%;
+    }
+    .w3-round-xlarge{
+        height:24px;
+        width:55%;
+    }
+    .w3-heiht{
+        height:24px;
+        width:100%;
+    }
+  .w3-style{
+      width: 50%;
+  }
+  .w3-contain{
+    width:75%;
+  }
+.w3-xlarge{
+    width:80%;
+}
+.w3-skill{
+    width:20%;
+}
+.img-size{
+    width:100%;
+}
+.w3-margin{
+    max-width:1400px;
+}
